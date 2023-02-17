@@ -1,0 +1,3 @@
+Fri Feb 17 03:05:43 2023	SELECT	{'sotrname': ['T', 'и']}
+Fri Feb 17 03:06:53 2023	INSERT	{'id': -1, 'sotrname': 'Имя1', 'sotrfio': 'Фио1', 'oklad': 111.0, 'phones': '8(111)111-11-11'}
+Fri Feb 17 03:07:06 2023	SELECT	{'sotrname': ['T', 'Им']}
